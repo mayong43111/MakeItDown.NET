@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MarkItDown.NET/MarkItDown.NET.csproj" />
+    <Project Path="src/MarkItDown.NET.Worker/MarkItDown.NET.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MarkItDown.NET.Tests/MarkItDown.NET.Tests.csproj" />
+  </Folder>
+</Solution>

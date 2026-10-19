@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Description>Optional legacy Office converters. Review NPOI/ImageSharp licensing before use.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MarkItDown.NET\MarkItDown.NET.csproj" />
+    <PackageReference Include="NPOI" Version="2.7.2" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="4.1.2" />
+  </ItemGroup>
+</Project>
